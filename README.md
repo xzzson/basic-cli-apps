@@ -4,62 +4,23 @@ This list is for people that want CLI apps on Arch Linux only. not Ubuntu, Fedor
 
 # Contents
 
+**password management**
+   - [pass](https://wiki.archlinux.org/title/Pass)
 
-**password management:**
-   - pass (password manager using gpg)
-   - keepassxc-cli 
+**mind mapping**
+   - [mindforger](https://aur.archlinux.org/packages/mindforger)
 
-   **task management:**
-   - taskwarrior
-   - todo.txt
+**text-based chat clients**
+    - [irssi](https://aur.archlinux.org/packages/irssi-git) (irc client)
+    - [weechat](https://aur.archlinux.org/packages?O=0&SeB=nd&K=weechat&outdated=&SB=p&SO=d&PP=50&submit=Go)
 
-   **encryption and security:**
-   - gnupg (gpg)
-   - openssl
+**file synchronization and backup**
+    - [borgbackup](https://aur.archlinux.org/packages/vorta)
 
-   **text-based web development:**
-   - pandoc
-   - httpie
-   - gist
+**text-based web browsing**
+    - [lynx](https://aur.archlinux.org/packages/lynx-current)
+    - [links](https://aur.archlinux.org/packages/links-g)
+    - [w3m](https://aur.archlinux.org/packages?O=0&SeB=nd&K=w3m&outdated=&SB=p&SO=d&PP=50&submit=Go)
 
-   **mind mapping:**
-   - mindforger (cli interface available)
-
-   **text-based rss readers:**
-   - newsboat (formerly known as newsbeuter)
-   - canto
-
-   **clipboard management:**
-   - xclip (command-line interface to x selections)
-
-   **remote desktop access:**
-    - vnc viewer
-    - ssh
-
-   **text-based chat clients:**
-    - irssi (irc client)
-    - weechat
-
-    **file synchronization and backup:**
-    - borgbackup
-
-    **disk management:**
-    - parted
-    - lsblk
-
-    **text-based web browsing:**
-    - lynx
-    - links
-    - w3m
-
-    **calendar and date management:**
-    - cal (built-in command for calendar)
-
-    **unit conversion:**
-    - units
-
-    **text-based word processing:**
-    - lyx (text-based frontend available)
-
-**markdown processing:**
-    - mdcat
+**markdown processing**
+    - mdcat (not avaiable on the AUR, sorry)
