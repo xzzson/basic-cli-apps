@@ -11,7 +11,7 @@ This list is for people that want CLI apps on Arch Linux only. not Ubuntu, Fedor
    - [mindforger](https://aur.archlinux.org/packages/mindforger)
 
 **text-based chat clients**
-    - [irssi](https://aur.archlinux.org/packages/irssi-git) (irc client)
+    - [irssi](https://aur.archlinux.org/packages/irssi-git)
     - [weechat](https://aur.archlinux.org/packages?O=0&SeB=nd&K=weechat&outdated=&SB=p&SO=d&PP=50&submit=Go)
 
 **file synchronization and backup**
