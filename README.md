@@ -6,6 +6,7 @@ This list is for people that want CLI apps on Arch Linux only. not Ubuntu, Fedor
 
 **password management**
    - [pass](https://wiki.archlinux.org/title/Pass)
+   - [1password](https://aur.archlinux.org/packages/1password-cli)
 
 **mind mapping**
    - [mindforger](https://aur.archlinux.org/packages/mindforger)
@@ -24,3 +25,7 @@ This list is for people that want CLI apps on Arch Linux only. not Ubuntu, Fedor
 
 **markdown processing**
     - mdcat (not avaiable on the AUR, sorry)
+
+**other**
+- [oci](https://aur.archlinux.org/packages/oci-cli)
+- [vt](https://aur.archlinux.org/packages/vt-cli)
